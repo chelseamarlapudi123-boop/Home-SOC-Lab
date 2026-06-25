@@ -114,3 +114,25 @@ The following Windows event channels were configured for ingestion into Splunk:
 - Windows PowerShell Logs
 
 These sources provided authentication, process creation, and endpoint telemetry data for security monitoring.
+## Screenshots
+
+### Windows and Kali Virtual Machines
+![Windows and Kali VM Setup](screenshots/windows+ kali VM setup.png)
+
+### Splunk Enterprise Installation
+![Splunk Installation](screenshots/splunk installed.png)
+
+### Splunk Dashboard
+![Splunk Dashboard](screenshots/splunk installed2.png)
+
+### Sysmon Installation
+![Sysmon Installation](screenshots/sysmon installation.png)
+
+### Audit Policy Configuration
+![Audit Policy Configuration](screenshots/audit policy configuration.png)
+
+### Sysmon Log Ingestion
+![Sysmon Logs](screenshots/sysmon logs in splunk.png)
+
+### Windows Security Log Ingestion
+![Windows Security Logs](screenshots/windows security logs in splunk.png)
