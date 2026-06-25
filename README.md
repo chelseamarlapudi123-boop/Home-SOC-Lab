@@ -104,3 +104,13 @@ Verified visibility of endpoint telemetry and authentication events through Splu
 * USB Monitoring Alerts
 * Splunk Dashboards
 * Threat Hunting Scenarios
+
+## Log Sources Configured
+
+The following Windows event channels were configured for ingestion into Splunk:
+
+- WinEventLog:Security
+- Microsoft-Windows-Sysmon/Operational
+- Windows PowerShell Logs
+
+These sources provided authentication, process creation, and endpoint telemetry data for security monitoring.
